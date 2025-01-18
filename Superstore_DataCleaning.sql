@@ -1,5 +1,5 @@
 #Data Cleaning
-#Check for Missing Values 
+ 
 SELECT * From Orders;
 SELECT * From Customers;
 SELECT * From Sales;
